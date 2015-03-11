@@ -1,8 +1,8 @@
-= README
+# README
 
 It's a sample for rails4 + puma + mina deploy, and with nginx.
 
-= HOWTO
+# HOWTO
 
 ```
 mina init
@@ -13,7 +13,7 @@ mina puma:stop       [TODO]
 mina puma:restart    [TODO]
 ```
 
-= UPDATE
+# UPDATE
 
 2015-3-11
 
